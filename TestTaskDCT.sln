@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{58A819AA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTaskDCTConcole", "Tests\TestTaskDCTConcole\TestTaskDCTConcole.csproj", "{B641B876-C3AC-4E5A-9C9A-C0F799E37070}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTaskDCTWPFTest", "Tests\TestTaskDCTWPFTest\TestTaskDCTWPFTest.csproj", "{1D52C2A6-4ECE-47BF-AC38-C509C217D9CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,12 +25,17 @@ Global
 		{B641B876-C3AC-4E5A-9C9A-C0F799E37070}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B641B876-C3AC-4E5A-9C9A-C0F799E37070}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B641B876-C3AC-4E5A-9C9A-C0F799E37070}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D52C2A6-4ECE-47BF-AC38-C509C217D9CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D52C2A6-4ECE-47BF-AC38-C509C217D9CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D52C2A6-4ECE-47BF-AC38-C509C217D9CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D52C2A6-4ECE-47BF-AC38-C509C217D9CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{B641B876-C3AC-4E5A-9C9A-C0F799E37070} = {58A819AA-0E22-4F4F-838B-6C15478482B4}
+		{1D52C2A6-4ECE-47BF-AC38-C509C217D9CC} = {58A819AA-0E22-4F4F-838B-6C15478482B4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1ABD385E-6B94-4EA5-8A42-90B8E81D4A16}
